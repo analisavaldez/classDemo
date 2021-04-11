@@ -1,0 +1,9 @@
+this is a basic text file
+
+let's start alist.
+
+colors of the raindow
+1. Red 
+2. orange
+3. yellow
+
